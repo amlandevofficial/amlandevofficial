@@ -1,215 +1,225 @@
+<!-- ═══════════════════════════════════════════════════════════
+     AMLAN DEV — GITHUB PROFILE README
+     Repo: github.com/amlandevofficial/amlandevofficial (public)
+     ⚠ BEFORE PUBLISHING: replace every YOUR_INSTAGRAM_HANDLE
+       (search this file — it appears in several places)
+     ═══════════════════════════════════════════════════════════ -->
+
+<!-- ░░░░░░░░░░░░░░░░░░ HERO ░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:FF2E88,100:FF6B35&height=300&section=header&text=AMlan%20Dev&fontSize=86&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=GRAPHIC%20DESIGNER%20%C3%97%20DIGITAL%20MARKETER&descSize=20&descAlignY=64" alt="AMlan Dev — Graphic Designer × Digital Marketer. Animated banner in violet, pink and orange gradient." />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FF2E88&center=true&vCenter=true&width=620&height=40&lines=Graphic+Designer.;Digital+Marketer.;Visual+Storyteller.;Turning+Ideas+Into+Brand+Experiences." alt="Rotating text: Graphic Designer. Digital Marketer. Visual Storyteller. Turning Ideas Into Brand Experiences." />
+
+<br/>
+
+# STOP THE SCROLL.
+# START THE STORY.
+
+<br/>
+
+**Amlan Dev** is a graphic designer and digital marketer working where visual storytelling meets brand communication.<br/>
+Design earns the attention. Marketing gives it a direction.
+
+<br/>
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
+  <img src="https://img.shields.io/badge/SEE_THE_WORK-ON_INSTAGRAM-FF2E88?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7C3AED" alt="See Amlan Dev's work on Instagram" />
+</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:FF2E88,100:FF6B35&height=4" alt="" />
+
+<!-- ░░░░░░░░░░░░░░░░░░ 01 — ABOUT ░░░░░░░░░░░░░░░░░░ -->
+
+<h2 align="center">✦ 01 — THE IDEA ✦</h2>
+
+<p align="center">
+A good visual makes people look.<br/>
+A good message makes them care.<br/>
+<b>The interesting work happens when both are designed together.</b>
+</p>
+
+<p align="center">
+I'm interested in the space between <b>visual storytelling</b>, <b>brand identity</b>, <b>compelling creative content</b> and <b>digital marketing</b>:<br/>
+how a layout, a typeface or a colour choice can carry a message, and how that message finds the right audience.
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:FF2E88,100:FF6B35&height=4" alt="" />
+
+<!-- ░░░░░░░░░░░░░░░░░░ 02 — DISCIPLINES ░░░░░░░░░░░░░░░░░░ -->
+
+<h2 align="center">✦ 02 — TWO DISCIPLINES, ONE VISION ✦</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <th width="50%" align="center">🎨 GRAPHIC DESIGN</th>
+    <th width="50%" align="center">📣 DIGITAL MARKETING</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      ✦ Brand identity &amp; visual direction<br/><br/>
+      ✦ Social media creatives<br/><br/>
+      ✦ Typography &amp; composition<br/><br/>
+      ✦ Promotional graphics<br/><br/>
+      ✦ Creative campaign visuals<br/><br/>
+      ✦ Visual storytelling
+    </td>
+    <td valign="top">
+      ✦ Social media marketing<br/><br/>
+      ✦ Content planning<br/><br/>
+      ✦ Brand communication<br/><br/>
+      ✦ Marketing campaign creatives<br/><br/>
+      ✦ Audience engagement<br/><br/>
+      ✦ Marketing-oriented visual communication
+    </td>
+  </tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:FF2E88,100:FF6B35&height=4" alt="" />
+
+<!-- ░░░░░░░░░░░░░░░░░░ 03 — TOOLKIT ░░░░░░░░░░░░░░░░░░ -->
+
+<h2 align="center">✦ 03 — THE TOOLKIT ✦</h2>
+
+<p align="center">
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://img.shields.io/badge/PHOTOSHOP-7C3AED?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=09090F" alt="Adobe Photoshop" />
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html">
+    <img src="https://img.shields.io/badge/ILLUSTRATOR-FF6B35?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=09090F" alt="Adobe Illustrator" />
+  </a>
+  <a href="https://www.canva.com/">
+    <img src="https://img.shields.io/badge/CANVA-FF2E88?style=for-the-badge&logo=canva&logoColor=white&labelColor=09090F" alt="Canva" />
+  </a>
+</p>
+
+<p align="center"><sub>Tools are the instrument. The idea is the work.</sub></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:FF2E88,100:FF6B35&height=4" alt="" />
+
+<!-- ░░░░░░░░░░░░░░░░░░ 04 — PORTFOLIO ░░░░░░░░░░░░░░░░░░ -->
+
+<h2 align="center">✦ 04 — THE GALLERY ✦</h2>
+
+<p align="center">
+A curated look at the work, <b>live on Instagram</b>.<br/>
+<sub>Selected pieces are being added to this gallery.</sub>
+</p>
+
 <!--
-  AMLAN DEV | GitHub Profile README
-  Brand: Vibrant Creative Studio
-  Palette: Violet / Hot Pink / Electric Orange
-  Repository: amlandevofficial
+  HOW TO ADD YOUR OWN WORK:
+  1. Create a folder in this repo called "assets".
+  2. Upload your exported images (JPG/PNG/GIF), ideally 1200×800 px.
+  3. Replace a tile's capsule-render <img src="..."> with:
+     <img src="assets/your-image.jpg" alt="Describe the piece" width="100%" />
+  Keep the link wrapped around the image, pointing to Instagram or the project.
 -->
 
-<div align="center">
-
-<a href="https://github.com/amlandevofficial">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:651FFF,40:FF2E88,75:FF6B35,100:FFC857&height=240&section=header&text=AMLAN%20DEV&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=GRAPHIC%20DESIGN%20%C3%97%20DIGITAL%20MARKETING&descSize=16&descAlignY=57&animation=fadeIn&stroke=FFFFFF&strokeWidth=0" width="100%" alt="Amlan Dev — Graphic Designer and Digital Marketer"/>
-</a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2600&pause=800&color=FF4F9A&center=true&vCenter=true&width=650&lines=Graphic+Designer+%E2%9C%A6;Digital+Marketer+%E2%9C%A6;Visuals+That+Speak.+Strategies+That+Connect.;Turning+Creative+Ideas+Into+Brand+Experiences." alt="Animated creative introduction"/>
-
-<br/>
-
-### CREATIVE THINKING. BOLD VISUALS. DIGITAL IMPACT.
-
-*I blend design and marketing to help ideas stand out in a crowded digital world.*
-
-<br/>
-
-<a href="https://github.com/amlandevofficial">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Profile-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
-</a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
-  <img src="https://img.shields.io/badge/Instagram-Let's%20Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DESIGN-7C3AED?style=flat-square" alt="Design"/>
-<img src="https://img.shields.io/badge/CREATIVITY-EC4899?style=flat-square" alt="Creativity"/>
-<img src="https://img.shields.io/badge/MARKETING-F97316?style=flat-square" alt="Marketing"/>
-
-</div>
-
----
-
-## ✳ THE MIND BEHIND THE VISUALS
-
-Hey, I'm **Amlan Dev** — a Graphic Designer and Digital Marketer who loves bringing creative ideas to life.
-
-I work at the intersection of **visual storytelling, brand identity, and digital marketing**. My goal is to create designs that do more than look good: they capture attention, communicate clearly, and make brands memorable.
-
-Whether it's a compelling graphic, a consistent visual identity, or a marketing creative, I believe every detail should have a purpose.
-
-> **Make it memorable. Make it meaningful. Make it matter.**
-
-## ◈ WHAT I DO
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🎨 Graphic Design</h3>
-
-Crafting visuals that communicate a brand's personality and make a lasting impression.
-
-- Brand identity & visual direction
-- Social media graphics
-- Promotional creatives
-- Typography & composition
-- Campaign visuals
-- Creative concepts & storytelling
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🚀 Digital Marketing</h3>
-
-Connecting creative communication with marketing goals and audience engagement.
-
-- Social media marketing
-- Content planning
-- Brand communication
-- Digital campaign creatives
-- Audience engagement strategies
-- Marketing-focused visual content
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:FF2E88&height=200&text=BRAND%20IDENTITY&fontSize=28&fontColor=FFFFFF&fontAlignY=45&desc=Logo%20%26%20identity%20explorations&descSize=14&descAlignY=65" alt="Gallery slot: brand identity and logo explorations — image coming soon" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E88,100:FF6B35&height=200&text=SOCIAL%20DESIGN&fontSize=28&fontColor=FFFFFF&fontAlignY=45&desc=Social%20media%20creatives&descSize=14&descAlignY=65" alt="Gallery slot: social media design — image coming soon" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:7C3AED&height=200&text=CAMPAIGN%20VISUALS&fontSize=28&fontColor=FFFFFF&fontAlignY=45&desc=Promotional%20graphics&descSize=14&descAlignY=65" alt="Gallery slot: promotional campaign graphics — image coming soon" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:FF6B35&height=200&text=MARKETING%20CREATIVES&fontSize=26&fontColor=FFFFFF&fontAlignY=45&desc=Made%20to%20perform%20and%20persuade&descSize=14&descAlignY=65" alt="Gallery slot: digital marketing creatives — image coming soon" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E88,100:7C3AED&height=200&text=EXPERIMENTS&fontSize=28&fontColor=FFFFFF&fontAlignY=45&desc=Experimental%20compositions&descSize=14&descAlignY=65" alt="Gallery slot: experimental visual compositions — image coming soon" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=09090F&height=200&text=MORE%20→&fontSize=34&fontColor=FACC15&fontAlignY=45&desc=The%20full%20feed%20lives%20on%20Instagram&descSize=14&descAlignY=65" alt="See the full creative feed on Instagram" />
+      </a>
+    </td>
+  </tr>
 </table>
 
-## ✦ MY CREATIVE TOOLKIT
+<p align="center">
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
+    <img src="https://img.shields.io/badge/EXPLORE_THE_FULL_PORTFOLIO-INSTAGRAM-FF2E88?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7C3AED" alt="Explore the full creative portfolio on Instagram" />
+  </a>
+</p>
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:FF2E88,100:FF6B35&height=4" alt="" />
 
-<a href="https://www.adobe.com/products/photoshop.html">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop"/>
-</a>
-<a href="https://www.adobe.com/products/illustrator.html">
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Adobe Illustrator"/>
-</a>
-<a href="https://www.canva.com/">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=FFFFFF" alt="Canva"/>
-</a>
+<!-- ░░░░░░░░░░░░░░░░░░ 05 — PROCESS ░░░░░░░░░░░░░░░░░░ -->
 
-<br/><br/>
+<h2 align="center">✦ 05 — THE CREATIVE APPROACH ✦</h2>
 
-*The tools are part of the process. The idea makes the difference.*
-
-</div>
-
-## ◈ THE CREATIVE PROCESS
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 01
-
-**DISCOVER**
-
-Understand the audience, brand, and goal.
-
-</td>
-<td align="center" width="25%">
-
-### 02
-
-**CONCEPT**
-
-Turn the brief into a creative direction.
-
-</td>
-<td align="center" width="25%">
-
-### 03
-
-**CREATE**
-
-Build purposeful, eye-catching visuals.
-
-</td>
-<td align="center" width="25%">
-
-### 04
-
-**CONNECT**
-
-Communicate the message to the audience.
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h1>01</h1>
+      <b>DISCOVER</b><br/>
+      Understand the brief, the brand and the audience.
+    </td>
+    <td width="50%" valign="top">
+      <h1>02</h1>
+      <b>CONCEPT</b><br/>
+      Develop a clear creative direction.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h1>03</h1>
+      <b>CREATE</b><br/>
+      Produce intentional visual content.
+    </td>
+    <td width="50%" valign="top">
+      <h1>04</h1>
+      <b>CONNECT</b><br/>
+      Communicate the message to the people it's meant for.
+    </td>
+  </tr>
 </table>
 
-</div>
+<p align="center"><sub>A creative approach, not a formula. Every brief shapes its own path.</sub></p>
 
-## ✳ SELECTED WORK & CREATIVE EXPLORATIONS
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:FF2E88,100:FF6B35&height=4" alt="" />
 
-*Every project starts with an idea. The goal is to turn that idea into something people remember.*
+<!-- ░░░░░░░░░░░░░░░░░░ 06 — CONTACT ░░░░░░░░░░░░░░░░░░ -->
 
-This is where I'll showcase selected work across graphic design, branding, and digital marketing.
+<h2 align="center">✦ 06 — LET'S MAKE SOMETHING LOOK UNFORGETTABLE ✦</h2>
 
-<div align="center">
+<p align="center">
+Open to conversations about<br/>
+<b>graphic design</b> · <b>brand identity</b> · <b>social media creatives</b><br/>
+<b>digital marketing projects</b> · <b>creative collaborations</b>
+</p>
 
-| CREATIVE DIRECTION | WHAT TO EXPECT |
-|:--|:--|
-| 🎨 **Visual Design** | Graphics, layouts & creative compositions |
-| ✦ **Brand Identity** | Logo concepts & consistent visual systems |
-| 📱 **Social Media** | Content creatives & campaign visuals |
-| 🚀 **Digital Marketing** | Brand-focused promotional content |
+<p align="center">
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-LET'S_CONNECT-FF2E88?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7C3AED" alt="Connect with Amlan Dev on Instagram" />
+  </a>
+  <a href="https://github.com/amlandevofficial">
+    <img src="https://img.shields.io/badge/GITHUB-amlandevofficial-09090F?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B35" alt="Amlan Dev on GitHub" />
+  </a>
+</p>
 
-</div>
+<h3 align="center">Designed to be noticed.<br/>Built to be remembered.</h3>
 
-<div align="center">
-
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
-  <img src="https://img.shields.io/badge/VIEW_MY_CREATIVE_WORK-FF2E88?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="View creative portfolio on Instagram"/>
-</a>
-
-</div>
-
-<!-- Replace the categories above with actual projects and links as they become available. -->
-
-## ◈ CURRENTLY EXPLORING
-
-- 🎨 Experimenting with fresh visual styles and creative concepts.
-- 🧠 Exploring the relationship between design psychology and marketing.
-- 📈 Learning how visual communication can support brand growth.
-- ✦ Developing a stronger, more distinctive creative perspective.
-
-## ✉ LET'S CONNECT
-
-Have a creative idea, a brand that needs a visual identity, or a marketing project in mind?
-
-**Let's turn that idea into something worth noticing.**
-
-<div align="center">
-
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
-  <img src="https://img.shields.io/badge/DM_ME_ON_INSTAGRAM-FF2E88?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Message me on Instagram"/>
-</a>
-
-<a href="https://github.com/amlandevofficial">
-  <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Follow on GitHub"/>
-</a>
-
-<br/><br/>
-
-**AMLAN DEV**
-
-*Designed with imagination. Driven by purpose.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC857,35:FF6B35,70:FF2E88,100:651FFF&height=120&section=footer" width="100%" alt="Vibrant gradient footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:FF2E88,100:7C3AED&height=160&section=footer&reversal=true&text=AMlan%20Dev&fontSize=28&fontColor=FFFFFF&fontAlignY=62&animation=fadeIn" alt="AMlan Dev — animated footer in orange, pink and violet gradient." />
