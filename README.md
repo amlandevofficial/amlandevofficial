@@ -1,137 +1,215 @@
 <!--
-  AMLAN DEV — GITHUB PROFILE README
-  Replace YOUR-GITHUB-USERNAME, YOUR-EMAIL and social links.
-  Theme: Midnight Black / Electric Violet / Neon Cyan
+  AMLAN DEV | GitHub Profile README
+  Brand: Vibrant Creative Studio
+  Palette: Violet / Hot Pink / Electric Orange
+  Repository: amlandevofficial
 -->
 
 <div align="center">
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:5424C9,100:00E5FF&height=220&section=header&text=AMLAN%20DEV&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=DESIGN%20%2F%20MARKETING%20%2F%20CREATIVITY&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Amlan Dev — Creative Designer and Digital Marketer"/>
+<a href="https://github.com/amlandevofficial">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:651FFF,40:FF2E88,75:FF6B35,100:FFC857&height=240&section=header&text=AMLAN%20DEV&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=GRAPHIC%20DESIGN%20%C3%97%20DIGITAL%20MARKETING&descSize=16&descAlignY=57&animation=fadeIn&stroke=FFFFFF&strokeWidth=0" width="100%" alt="Amlan Dev — Graphic Designer and Digital Marketer"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2800&pause=900&color=9D7BFF&center=true&vCenter=true&width=600&lines=Graphic+Designer+%E2%9C%A6;Digital+Marketer+%E2%9C%A6;Turning+Ideas+Into+Visual+Experiences;Building+Brands+That+Get+Noticed" alt="Creative identity animation"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2600&pause=800&color=FF4F9A&center=true&vCenter=true&width=650&lines=Graphic+Designer+%E2%9C%A6;Digital+Marketer+%E2%9C%A6;Visuals+That+Speak.+Strategies+That+Connect.;Turning+Creative+Ideas+Into+Brand+Experiences." alt="Animated creative introduction"/>
 
 <br/>
 
-**I DESIGN TO CAPTURE ATTENTION. I MARKET TO MAKE IT MATTER.**
+### CREATIVE THINKING. BOLD VISUALS. DIGITAL IMPACT.
 
-*Creative visuals. Strategic thinking. Digital impact.*
+*I blend design and marketing to help ideas stand out in a crowded digital world.*
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-09090F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/YOUR-GITHUB-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-09090F?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](YOUR-LINKEDIN-URL)
-[![Instagram](https://img.shields.io/badge/Instagram-09090F?style=for-the-badge&logo=instagram&logoColor=E879F9)](YOUR-INSTAGRAM-URL)
+<a href="https://github.com/amlandevofficial">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Profile-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
+</a>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
+  <img src="https://img.shields.io/badge/Instagram-Let's%20Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DESIGN-7C3AED?style=flat-square" alt="Design"/>
+<img src="https://img.shields.io/badge/CREATIVITY-EC4899?style=flat-square" alt="Creativity"/>
+<img src="https://img.shields.io/badge/MARKETING-F97316?style=flat-square" alt="Marketing"/>
 
 </div>
 
 ---
 
-## ◈ THE CREATIVE MINDSET
+## ✳ THE MIND BEHIND THE VISUALS
 
-Hey, I'm **Amlan Dev** — a Graphic Designer and Digital Marketer passionate about the intersection of visual storytelling, brand identity, and digital growth.
+Hey, I'm **Amlan Dev** — a Graphic Designer and Digital Marketer who loves bringing creative ideas to life.
 
-I believe great design does more than look good. It communicates a message, creates emotion, and makes a brand memorable.
+I work at the intersection of **visual storytelling, brand identity, and digital marketing**. My goal is to create designs that do more than look good: they capture attention, communicate clearly, and make brands memorable.
 
-From crafting compelling visual identities to exploring digital marketing strategies, I enjoy transforming ideas into experiences that connect with people.
+Whether it's a compelling graphic, a consistent visual identity, or a marketing creative, I believe every detail should have a purpose.
 
-```text
-DESIGN IS THE FIRST IMPRESSION.
-STRATEGY IS THE DIFFERENCE.
-IMPACT IS THE GOAL.
-```
+> **Make it memorable. Make it meaningful. Make it matter.**
 
-## ◈ WHAT I BRING TO THE TABLE
+## ◈ WHAT I DO
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ✳ Graphic Design
+<h3>🎨 Graphic Design</h3>
+
+Crafting visuals that communicate a brand's personality and make a lasting impression.
 
 - Brand identity & visual direction
-- Social media creatives
-- Marketing campaign graphics
-- Typography & layout
-- Creative advertising assets
-- Visual storytelling
+- Social media graphics
+- Promotional creatives
+- Typography & composition
+- Campaign visuals
+- Creative concepts & storytelling
 
 </td>
 <td width="50%" valign="top">
 
-### ⌁ Digital Marketing
+<h3>🚀 Digital Marketing</h3>
+
+Connecting creative communication with marketing goals and audience engagement.
 
 - Social media marketing
-- Content strategy
-- Brand positioning
-- Digital campaign planning
-- Audience engagement
-- Marketing creative optimization
+- Content planning
+- Brand communication
+- Digital campaign creatives
+- Audience engagement strategies
+- Marketing-focused visual content
 
 </td>
 </tr>
 </table>
 
-## ◈ MY CREATIVE TOOLKIT
+## ✦ MY CREATIVE TOOLKIT
 
 <div align="center">
 
-<!-- Keep only the tools you actually use -->
-
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,canva&theme=dark" alt="Design tools"/>
+<a href="https://www.adobe.com/products/photoshop.html">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop"/>
+</a>
+<a href="https://www.adobe.com/products/illustrator.html">
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Adobe Illustrator"/>
+</a>
+<a href="https://www.canva.com/">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=FFFFFF" alt="Canva"/>
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/GRAPHIC%20DESIGN-9D7BFF?style=flat-square" alt="Graphic Design"/>
-<img src="https://img.shields.io/badge/BRANDING-00E5FF?style=flat-square&labelColor=09090F" alt="Branding"/>
-<img src="https://img.shields.io/badge/SOCIAL%20MEDIA-9D7BFF?style=flat-square" alt="Social Media"/>
-<img src="https://img.shields.io/badge/DIGITAL%20MARKETING-00E5FF?style=flat-square&labelColor=09090F" alt="Digital Marketing"/>
+*The tools are part of the process. The idea makes the difference.*
 
 </div>
 
-## ◈ SELECTED CREATIVE WORK
-
-> Every project is an opportunity to experiment, communicate, and create something memorable.
-
-| Project | Focus |
-|:--|:--|
-| **Brand Identity** | Logos, visual systems & brand consistency |
-| **Social Media Campaigns** | Scroll-stopping visuals & creative direction |
-| **Marketing Creatives** | Promotional graphics & campaign assets |
-| **Digital Experiments** | New ideas, visual concepts & creative exploration |
-
-*Replace these examples with links to actual projects as you publish them.*
-
-## ◈ BEYOND THE PIXELS
-
-- 🎨 Exploring fresh visual styles and design trends.
-- 🧠 Learning how creativity and marketing psychology work together.
-- ⚡ Experimenting with ideas that challenge the ordinary.
-- 🤝 Open to meaningful collaborations and creative projects.
-
-## ◈ LET'S CREATE SOMETHING THAT STANDS OUT
-
-Have a brand to build, a campaign to launch, or an idea worth bringing to life?
-
-Let's connect.
+## ◈ THE CREATIVE PROCESS
 
 <div align="center">
 
-<a href="mailto:YOUR-EMAIL">
-  <img src="https://img.shields.io/badge/LET'S%20WORK%20TOGETHER-9D7BFF?style=for-the-badge&logo=minutemailer&logoColor=FFFFFF" alt="Contact Amlan"/>
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 01
+
+**DISCOVER**
+
+Understand the audience, brand, and goal.
+
+</td>
+<td align="center" width="25%">
+
+### 02
+
+**CONCEPT**
+
+Turn the brief into a creative direction.
+
+</td>
+<td align="center" width="25%">
+
+### 03
+
+**CREATE**
+
+Build purposeful, eye-catching visuals.
+
+</td>
+<td align="center" width="25%">
+
+### 04
+
+**CONNECT**
+
+Communicate the message to the audience.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## ✳ SELECTED WORK & CREATIVE EXPLORATIONS
+
+*Every project starts with an idea. The goal is to turn that idea into something people remember.*
+
+This is where I'll showcase selected work across graphic design, branding, and digital marketing.
+
+<div align="center">
+
+| CREATIVE DIRECTION | WHAT TO EXPECT |
+|:--|:--|
+| 🎨 **Visual Design** | Graphics, layouts & creative compositions |
+| ✦ **Brand Identity** | Logo concepts & consistent visual systems |
+| 📱 **Social Media** | Content creatives & campaign visuals |
+| 🚀 **Digital Marketing** | Brand-focused promotional content |
+
+</div>
+
+<div align="center">
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
+  <img src="https://img.shields.io/badge/VIEW_MY_CREATIVE_WORK-FF2E88?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="View creative portfolio on Instagram"/>
+</a>
+
+</div>
+
+<!-- Replace the categories above with actual projects and links as they become available. -->
+
+## ◈ CURRENTLY EXPLORING
+
+- 🎨 Experimenting with fresh visual styles and creative concepts.
+- 🧠 Exploring the relationship between design psychology and marketing.
+- 📈 Learning how visual communication can support brand growth.
+- ✦ Developing a stronger, more distinctive creative perspective.
+
+## ✉ LET'S CONNECT
+
+Have a creative idea, a brand that needs a visual identity, or a marketing project in mind?
+
+**Let's turn that idea into something worth noticing.**
+
+<div align="center">
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/">
+  <img src="https://img.shields.io/badge/DM_ME_ON_INSTAGRAM-FF2E88?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Message me on Instagram"/>
+</a>
+
+<a href="https://github.com/amlandevofficial">
+  <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Follow on GitHub"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=09090F" alt="Explore GitHub"/>
-</a>
+**AMLAN DEV**
 
-<br/><br/>
+*Designed with imagination. Driven by purpose.*
 
-*Creative by nature. Strategic by design.*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:5424C9,100:09090F&height=100&section=footer" width="100%" alt="Decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC857,35:FF6B35,70:FF2E88,100:651FFF&height=120&section=footer" width="100%" alt="Vibrant gradient footer"/>
 
 </div>
